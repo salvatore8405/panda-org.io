@@ -1,0 +1,53 @@
+.sprite {
+    background-image: url(../images/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-diamond {
+    width: 41px;
+    height: 33px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-gear {
+    width: 41px;
+    height: 41px;
+    background-position: -56px -5px;
+}
+
+.sprite-icon-pencil {
+    width: 40px;
+    height: 38px;
+    background-position: -5px -56px;
+}
+
+.sprite-icon-truck {
+    width: 44px;
+    height: 33px;
+    background-position: -55px -56px;
+}
+
+.sprite-logo-facebook {
+    width: 33px;
+    height: 33px;
+    background-position: -107px -5px;
+}
+
+.sprite-logo-google {
+    width: 33px;
+    height: 33px;
+    background-position: -109px -48px;
+}
+
+.sprite-logo-linkedin {
+    width: 33px;
+    height: 33px;
+    background-position: -109px -91px;
+}
+
+.sprite-logo-twitter {
+    width: 33px;
+    height: 33px;
+    background-position: -5px -134px;
+}
